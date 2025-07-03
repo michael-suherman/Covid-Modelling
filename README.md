@@ -1,4 +1,4 @@
-# Covid-Modelling
+# Covid-Modeling
 
 While other countries were being transparent, the Indonesian government decided to hide Covid cases from the public in order to keep the economy strong. When I realized that the Indonesian government was not reporting COVID-19 data accurately,  I was curious what effect this would have on statisticians when they tried to analyze the data and decided to look into it myself. 
 
