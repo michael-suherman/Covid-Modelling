@@ -38,19 +38,6 @@ This project was my way of combining classroom theory with real-world data to in
 
 ---
 
-## 📁 Repository Structure
-
-/data → CSV files of COVID-19 case numbers and deaths
-/plots → Output graphs (case curve, SIRD model, etc.)
-/notebooks → Jupyter notebooks with all modeling steps
-/statistics → Chi-square tests, confidence interval calcs, etc.
-/sird_model → Python scripts to simulate the SIRD progression
-
-yaml
-Copy
-Edit
-
----
 
 ## 📊 Key Findings
 
