@@ -1,6 +1,6 @@
 # Covid-Modelling
 
-One day, I was watching the news on television, and realized that the Indonesian government was not reporting COVID-19 data accurately. While other countries were being transparent, the Indonesian government decided to hide cases from the public in order to keep the economy going. I was curious what effect this would have on statisticians when they tried to analyze the data and ended up looking into it myself. 
+While other countries were being transparent, the Indonesian government decided to hide Covid cases from the public in order to keep the economy strong. When I realized that the Indonesian government was not reporting COVID-19 data accurately,  I was curious what effect this would have on statisticians when they tried to analyze the data and decided to look into it myself. 
 
 I have been taking an advanced statistics course in school for my A levels, and have been self studying various programming languages such as C++ and python for almost 2 years. This issue inspired me to combine my interests in both mathematics and coding to see what impact I could make to the community.
 
